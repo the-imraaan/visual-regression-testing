@@ -7,8 +7,8 @@ This repository contains an automation test suite built using [Playwright](https
 - [Installation](#installation)
 - [Clone the Repository](#clone-the-repository)
 - [Setup](#setup)
+- [Run Test](#add-page-urls)
 - [Run Tests](#run-tests)
-- [Test Structure](#test-structure)
 
 ---
 
@@ -56,6 +56,7 @@ Before cloning and running the tests, ensure you have the following installed:
   - Add url 
   - Run test
 And boom the first will show failed because it will set the base screenshot. Then run again you are good to go.
+-- If want to skip any of elements on the page add the CSS class in the test_utils/screenshot.css
 
 ---
 ## Run Tests
