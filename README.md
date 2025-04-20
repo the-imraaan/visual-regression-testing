@@ -49,7 +49,7 @@ Before cloning and running the tests, ensure you have the following installed:
   This command downloads and installs the required browsers for Playwright.
 
 ---
-## Run Tests
+## Add page URLs
 
 1. To add new pages. 
   - Navigate to the test file visual.spec.js
@@ -75,3 +75,4 @@ And boom the first will show failed because it will set the base screenshot. The
 
 
 N.B: While running on CI/CD make sure you captured baseline screenshot on the same server you are using in the CI environment.
+To know more -> [Playwirght snapshot test](https://playwright.dev/docs/test-snapshots)
