@@ -1,0 +1,27 @@
+.announcement-banner {
+    visibility: hidden;
+}
+
+.trusted-by-innovators {
+    visibility: hidden;
+}
+
+#onetrust-banner-sdk {
+    display: none !important;
+}
+
+#homepage-hero-section-v2 {
+    background-image: none !important;
+}
+
+.nextiva-footer-download img {
+    display: none !important;
+}
+
+.slick-track {
+    visibility: hidden;
+}
+
+#video-page-image-randomizer {
+    display: none !important;
+}
